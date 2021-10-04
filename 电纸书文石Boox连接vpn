@@ -1,0 +1,8 @@
+只在文石nova 3 上用过，不保证在其他安卓系统的电纸书上同样有效
+
+试过Shadowrocket, Shadowsocks, 都不行，最后用的是V2rayNG
+
+下载地址：https://dl2.awedl.com/android/v2rayNG/v2rayNG_1.6.22.apk
+
+点进去会发现界面是空的，其实在右上角有个看不到的+号，盲按一下，会出来“扫描二维码”， “从剪贴板导入”
+我之前已经复制好了，从剪贴板导入配置文件就可以。
